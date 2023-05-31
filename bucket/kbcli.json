@@ -1,5 +1,5 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "A Command Line Interface for KubeBlocks",
     "homepage": "https://kubeblocks.io/",
     "license": "AGPL-3.0",
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url":"https://github.com/apecloud/kbcli/releases/download/v$version/kbcli-windows-amd64-v$version.zip"
+                "url": "https://github.com/apecloud/kbcli/releases/download/v$version/kbcli-windows-amd64-v$version.zip"
             }
         }
     }
