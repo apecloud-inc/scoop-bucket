@@ -1,6 +1,6 @@
 # kbcli bucket
 
-This repository is the source of the kbcli in **scoop** .
+This repository is the bucket source of the **kbcli.exe** in **scoop** .
 
 You can install the latest `kbcli.exe` follow:
 
