@@ -1,6 +1,6 @@
 # kbcli bucket
 
-This repository is the bucket source of the **kbcli.exe** in **scoop** .
+This repository is the bucket source of **scoop** for the **kbcli.exe** and the other products owned by **ApeCloud**.
 
 You can install the latest `kbcli.exe` follow:
 
