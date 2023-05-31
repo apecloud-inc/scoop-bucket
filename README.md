@@ -4,7 +4,7 @@ This repository is the bucket source of **scoop** for the **kbcli.exe** and the 
 
 You can install the latest `kbcli.exe` follow:
 
-1. `scoop bucket add scoop-bucket git@github.com:apecloud/kbcli-bucket.git` or `scoop bucket add scoop-bucket https://github.com/apecloud/kbcli-bucket.git`
+1. `scoop bucket add scoop-bucket git@github.com:apecloud/scoop-bucket.git` or `scoop bucket add scoop-bucket https://github.com/apecloud/scoop-bucket.git`
 
 2. `scoop install kbcli`
-https://github.com/apecloud/scoop-bucket.git
+
