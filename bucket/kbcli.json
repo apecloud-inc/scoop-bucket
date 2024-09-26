@@ -1,12 +1,12 @@
 {
-    "version": "0.8.2",
+    "version": "0.9.0",
     "description": "A Command Line Interface for KubeBlocks",
     "homepage": "https://kubeblocks.io/",
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apecloud/kbcli/releases/download/v0.8.2/kbcli-windows-amd64-v0.8.2.zip",
-            "hash": "0acde979d3b9bea7ba3727dabfe0f64299d320b5375d70d3605a9f0b33e5a99d"
+            "url": "https://github.com/apecloud/kbcli/releases/download/v0.9.0/kbcli-windows-amd64-v0.9.0.zip",
+            "hash": "0095ede299ce165c49e9d00f8af3de1c17aa8787528617f24dc00413b5fd4aa1"
         }
     },
     "extract_dir": "windows-amd64",
